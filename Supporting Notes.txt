@@ -1,0 +1,13 @@
+API:
+Application Programming Interface
+APIs can be built with python just like Apps
+These are meant to be read by other apps.
+Usually these are in JSON
+Which means that API can be read like JSON.
+So for example to display news, you can read an API, store it and display it on the webapp.
+REST is one type of API
+
+You can download files and pull websites as well from request library's get method
+
+Use debugger to see the contents of the API and plan your access accordingly
+
